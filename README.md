@@ -3,8 +3,7 @@
 
 An autonomous multi-pillar attack surface intelligence dashboard built with AI.
 
-![Dashboard Screenshot](link_to_your_screenshot.png) 
-*(Yahan apni screenshot ka link daalein ya screenshot ko folder mein rakh kar path likhein)*
+
 
 ## 🚀 What can it do?
 Just type a natural language command like *"Run full recon on tesla.com"* and it executes 7 pillars:
